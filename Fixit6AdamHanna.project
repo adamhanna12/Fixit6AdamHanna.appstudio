@@ -21,14 +21,6 @@
             "pets", 
             "pets.json"
           ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
-            "howMany", 
-            "howMany.json"
-          ]
         }
       ], 
       "configxml": null, 
